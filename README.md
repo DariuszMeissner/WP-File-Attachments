@@ -6,6 +6,12 @@ Wordpress plugin adding file attachments as custom fields.
 
 ACF Pro
 
+## Installation
+
+1.Put directory 'wp-file-attachments' in your wordpress plugins directory and active.
+2.Install the ACF PRO plugin
+3.Set custom fields in ACF PRO like below
+
 ### Settings custom fields
 
 Main field:
