@@ -11,7 +11,7 @@ function acf_repeater_attachment()
 {
   ob_start(); ?>
 
-  <?php if (have_rows('repeater_załączniki')) : ?>
+  <?php if (have_rows('repeater_attachment')) : ?>
 
     <div class="attachments">
       <p class="attachments_header">
